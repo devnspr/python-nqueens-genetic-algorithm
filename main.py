@@ -109,11 +109,4 @@ a = find_solution()
 end = time.time()
 print_chess_board(a)
 print(f'it took {end - start}s to find a solution')
-# pop = create_population(20)
-# p1, p2 = crossover(pop[0], pop[1])
-# print(pop[0])
-# print(pop[1])
-# print('  '.join([str(j) for j in p1]))
-# print('  '.join([str(j) for j in p2]))
-# for i in range(0, 10):
-#     pass
+
