@@ -1,3 +1,7 @@
+# ATTENTION
+# this is the manual implementation of the Genetic N-Queens Algorithm
+# for PYGAD implementation please see pygad_implementation.py
+
 import constants
 from random import sample, shuffle, random
 from typing import List, Tuple, Any, Union
